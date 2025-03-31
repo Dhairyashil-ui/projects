@@ -118,8 +118,8 @@ const Contact = () => {
                   <div className="ml-4">
                     <h3 className="font-semibold">Address</h3>
                     <p className="text-gray-600">
-                      123 Farm Road<br />
-                      Agritech Valley, AG 12345
+                      hinjewadi phase 1<br />
+                      Pune
                     </p>
                   </div>
                 </div>
@@ -127,14 +127,14 @@ const Contact = () => {
                   <Phone className="h-6 w-6 text-green-600 mt-1" />
                   <div className="ml-4">
                     <h3 className="font-semibold">Phone</h3>
-                    <p className="text-gray-600">(555) 123-4567</p>
+                    <p className="text-gray-600">9699317520</p>
                   </div>
                 </div>
                 <div className="flex items-start">
                   <Mail className="h-6 w-6 text-green-600 mt-1" />
                   <div className="ml-4">
                     <h3 className="font-semibold">Email</h3>
-                    <p className="text-gray-600">info@agrimater.com</p>
+                    <p className="text-gray-600">agrimater3@gmail.com</p>
                   </div>
                 </div>
                 <div className="flex items-start">
@@ -142,8 +142,8 @@ const Contact = () => {
                   <div className="ml-4">
                     <h3 className="font-semibold">Support Hours</h3>
                     <p className="text-gray-600">
-                      Monday - Friday: 9:00 AM - 6:00 PM<br />
-                      Saturday: 9:00 AM - 1:00 PM
+                      Monday - Friday: 4:00 AM - 7:00 AM<br />
+                      Saturday: 24 hours
                     </p>
                   </div>
                 </div>
