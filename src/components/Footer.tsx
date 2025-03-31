@@ -25,10 +25,10 @@ const Footer = () => {
           <div>
             <h3 className="text-lg font-semibold mb-4">Contact</h3>
             <ul className="space-y-2 text-gray-400">
-              <li>123 Farm Road</li>
-              <li>Agritech Valley, AG 12345</li>
-              <li>Phone: (555) 123-4567</li>
-              <li>Email: info@agrimater.com</li>
+              <li>123 hinjewadi phase 1</li>
+              <li>Pune</li>
+              <li>Phone: 9699317520</li>
+              <li>Email: agrimater3@gmail.com</li>
             </ul>
           </div>
           <div>
