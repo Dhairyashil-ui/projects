@@ -86,7 +86,7 @@ const Features = () => {
           <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
             <div>
               <img 
-                src="https://media-hosting.imagekit.io/1c71a21ae2424bfb/Screenshot%202025-03-31%20235652.png?Expires=1838053684&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=zFU2izaCkZVAO48KgHzclaok98Xn0k04ZaDLdpz7FEicCH7ZLcTU3nGIz4WIpyH9Jt0jLZ2uQQhOYq0oP6rUQ5gPWyv-xApXEdr6b4400h6ePCxz4F6K1EvQ~iYDJYS9bbXY7kSe65VhROunL2DBtEaPmYsJOzDzzCy1jD-DXj7DURWGzQ~WX3NzIFPai-VvkDemQtv85Q1NvExj4fgm36crRDS0gtweiwqafjitvJtnMUgo5qfwueegUyoixsyzQZCFDHz5khK7vEyRpd5V~bAnQdFC2mcKgvguX~UEpu2rumsnWcEkuRp3bt62OYvI1U-OkPfyP-UKPxKel12m3g__"
+                src="https://media-hosting.imagekit.io/59d3fd9b3bb44c46/ChatGPT%20Image%20Apr%201,%202025,%2012_06_15%20AM.png?Expires=1838054192&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=EAvIYqb0NI22gk7iBAmugOojA4qgt1NOSQitXl73v9ABrMLqIRE-Zpe0r226XoB-hw1AHeQgpbFi-jYBjUGl98g9R3VMI04yEEwpsNwrCgCr9mAMyF4NpEsz9AUblI7CYyXSxQ~3CsvAgUx~csTQVOoT90nrfaoKZOAla86n-nA2AeQ3a64AptfdCTxK3a31wOMIIb28Srmu5hqSZU6MmyYzeBEwGjWg0UWUlGo1SwQ2sVnRwVcxCD9Ta8t~dXIBi--1UcDxm9GiznJi0Z1H59nEFsKtIp11cz5Js00xNSXzD5NvN8AIy2klYMMvTfL67K0EKRwpz~9oUJYWnNkquw__"
                 alt="Smart Farming Technology"
                 className="rounded-lg shadow-lg"
               />
