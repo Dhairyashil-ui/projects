@@ -194,7 +194,7 @@ const SignUp = () => {
                 <div className="space-y-4">
                   <blockquote className="italic text-gray-600">
                     "Agrimater has transformed how we manage our farm. The AI recommendations have helped us increase our yield by 40%."
-                    <footer className="mt-2 font-semibold not-italic">- John Smith, Farm Owner</footer>
+                    <footer className="mt-2 font-semibold not-italic">- Vivek Patil, Farm Owner</footer>
                   </blockquote>
                 </div>
               </div>
