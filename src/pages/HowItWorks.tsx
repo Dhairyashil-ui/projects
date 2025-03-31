@@ -104,7 +104,7 @@ const HowItWorks = () => {
             </div>
             <div>
               <img 
-                src="https://images.unsplash.com/photo-1625244695851-1fc7d97e796d?ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=80"
+                src="https://media-hosting.imagekit.io/91e9d1b681b34c48/background.png?Expires=1838029518&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=WSKZPrRRFN6kYK4PQHtoMggGwLRfTYFDZwLHUJ~7VZahAV214AtucjVScg3~pSV-QqTxobvqdkZoSrat2PpTWsaQgakxaZOwKAuFVAcKf0lOd0VzQ~cSJrrH9J9H3XmdWB2NxBUkx7h83yhgB82fFs0DABxxe1hS0d1AwJ9goDPOjDNfPBgix4GQd7DHV1YoxhsFqVQ8m-Vq~QJ5sjl-rNHJE3429sSAyXyv0OhaHRAyaGnHrOHf8eWEFcXyZc54KgUMPB19OdqQyAqFYsZCeFwFSdP9o9X2Kx6wjoYDoBcWMK3Dh1LOTwpV2PWZGZ5OHvby8quUHw3-m0WBlfa6ZA__"
                 alt="Agricultural Technology"
                 className="rounded-lg shadow-xl"
               />
