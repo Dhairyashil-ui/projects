@@ -91,19 +91,19 @@ const About = () => {
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
             {[
               {
-                name: "Sarah Johnson",
-                role: "CEO & Co-founder",
-                image: "https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80"
+                name: "Dhairyashil Shinde",
+                role: "Founder and Ceo",
+                image: "https://media-hosting.imagekit.io/647cd9b114af4814/1704599380213.jpg?Expires=1838028398&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=2LQzCWU0LsTvtt6rIcyume4dr3PvzEtFZS7PFU5zXNSAWwt~i1Dcmr7VrkqLO4ciSvN9jBxTcxfwrbnso7vcQC52xdy9YYixWsfTU0RyKOYEOgkV~soqeWi2uRy1YxIjkVAlHw1xs~Iq6iMdBYrAfEQoC~KKyMw6hJJWdCUo43rilmzvbf7ayHXeyodPksPtY2nLnYoh~eUpgJ67RCUa05S-WK0G2hCSOHpNMYJ-OL0I-os4KOLwLP9Od5PUd3sivF6nvOHInwQ2qoZcwu59l6GgSLNZ002~iKHznHjbhUKzhhgvagE0y1SxOFLpT-yS1DftU8TrpP6VRbVhaB~KVg__"
               },
               {
-                name: "Michael Chen",
-                role: "CTO",
-                image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80"
+                name: "Aman Pokale",
+                role: "Co-Founder",
+                image: "https://media-hosting.imagekit.io/30a021029f5448bb/WhatsApp%20Image%202025-03-31%20at%2018.35.29_1f786b08.jpg?Expires=1838054497&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=qhWODE4dbZYSxjfKjNeQwU95t~m4YRjQ4AalP7KzFmGCp6osAjiOw~-WeS7aE6TCQ~MMMdWMEzUShpi0BUFT9FTurwehQlBQDFsV5qokQJlPxT9CTHNS4wr8urri4mOekD66h9jwxmjk3EhPxt0t96rljl3X5I4GvD5S3iUVO8umRnvzNui0-hsU9JSolkPktmaZ9P6NP1VYgPPnAJD6qN-1tcC8kAayqL75RE0lWXne3gNohhpGA66eve5J94NZsk7Ogc7xnw2UpO8Q-Nhm8KJIRBgnm3ULmsJi8unmj9ubowGA~fs~Y25MBm~3csrs54tTbkypJfG0Th-TKErtlw__"
               },
               {
-                name: "David Kumar",
+                name: "Parth Bend",
                 role: "Head of Agriculture",
-                image: "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80"
+                image: "https://media-hosting.imagekit.io/986ab958aa2f42e0/WhatsApp%20Image%202025-03-31%20at%2020.46.32_4af669db.jpg?Expires=1838054497&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=ftqogqJy3J1O0ekUBnF4QPqtSlcI2OuBCNbTMgWCKFLtC~pnxSfceKggEwsjQzS9TeOyDWIY-7ifQZGrA~R-xEkWoOfEY6383id2fgQ6MHBxxGBwc-NOSBTAGGjU3tex6gKaJpiiH4oy~0j-Fr52GKo-tLSPRtvxwBoXp14hpfmnXCTB2J9JQ1tdHX7H09eawjRMghL5OIRxEi~~~dDc36bhXmj4vC4r5~A-D-jUZrCs57H4n7hJ699odY-2YH4RBtRq8J0KeRizMcJhfVVpPpFQW~m2gn459y-yH~z1J2uvPKzEBMFktnvmRBaJqZFa1VP35T-SVFw9~ZSlbVTuGQ__"
               }
             ].map((member, index) => (
               <div key={index} className="bg-white rounded-lg shadow-md overflow-hidden">
