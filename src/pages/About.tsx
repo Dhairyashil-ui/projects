@@ -47,7 +47,7 @@ const About = () => {
               <h2 className="text-3xl font-bold mb-6">Our Story</h2>
               <div className="space-y-4 text-lg text-gray-600">
                 <p>
-                  Founded in 2023, Agrimater emerged from a simple yet powerful idea: to make advanced farming technology accessible to every farmer.
+                  Founded in 2024, Agrimater was founded by IIT student Dhairyashil Deepak Shinde emerged from a simple yet powerful idea: to make advanced farming technology accessible to every farmer.
                 </p>
                 <p>
                   Our team of agricultural experts, data scientists, and technology innovators came together with a shared vision of transforming traditional farming practices through AI and satellite technology.
@@ -92,7 +92,7 @@ const About = () => {
             {[
               {
                 name: "Dhairyashil Shinde",
-                role: "Founder and Ceo",
+                role: "Founder & CEO",
                 image: "https://media-hosting.imagekit.io/647cd9b114af4814/1704599380213.jpg?Expires=1838028398&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=2LQzCWU0LsTvtt6rIcyume4dr3PvzEtFZS7PFU5zXNSAWwt~i1Dcmr7VrkqLO4ciSvN9jBxTcxfwrbnso7vcQC52xdy9YYixWsfTU0RyKOYEOgkV~soqeWi2uRy1YxIjkVAlHw1xs~Iq6iMdBYrAfEQoC~KKyMw6hJJWdCUo43rilmzvbf7ayHXeyodPksPtY2nLnYoh~eUpgJ67RCUa05S-WK0G2hCSOHpNMYJ-OL0I-os4KOLwLP9Od5PUd3sivF6nvOHInwQ2qoZcwu59l6GgSLNZ002~iKHznHjbhUKzhhgvagE0y1SxOFLpT-yS1DftU8TrpP6VRbVhaB~KVg__"
               },
               {
