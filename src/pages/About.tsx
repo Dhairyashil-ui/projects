@@ -59,7 +59,7 @@ const About = () => {
             </div>
             <div>
               <img 
-                src="https://images.unsplash.com/photo-1625244724120-1fd1d34d00f6?ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=80"
+                src="https://media-hosting.imagekit.io/a5a22de129cd4285/DALL%C2%B7E%202025-03-18%2018.16.47%20-%20A%20high-quality,%20futuristic%20agriculture-themed%20background%20designed%20for%20a%20website%20banner.%20The%20image%20should%20depict%20a%20seamless%20digital%20farm-to-buyer%20marke.webp?Expires=1838054871&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=gwlJpkO0F0Mg8YCtTs4dATZkJw12CNzLfsNpGHWjlvsLymN4P-sxoVImObKqpTAdmAH-scBBQ7sB0lw9tr~J~7V6QuCzPs5~OS69epn1UF9vgrN4lmUO3nCa9zj1tRyNCL-PyeQYISDeOQv9guvmKQagDqeK1QYDn8EgryGCHokcT856cgRYCZda1zNyZa4F1K6yBl8nrWRKRM2djXeoH6UGwIS-i6Jub11YHRoLKSxuKokpuLTKq3UIJsTfbouPRtoSa5-DhxyWRAjSf5~IuPuY4FKpupsaF0qQGG7NeHQlJeXsrmcIH6nVgYOKhG0SSfEZyy3Cvw1D3XWN76kB9Q__"
                 alt="Agrimater Team"
                 className="rounded-lg shadow-xl"
               />
