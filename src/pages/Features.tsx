@@ -86,7 +86,7 @@ const Features = () => {
           <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
             <div>
               <img 
-                src="https://images.unsplash.com/photo-1625244724120-1fd1d34d00f6?ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=80"
+                src="https://media-hosting.imagekit.io/1c71a21ae2424bfb/Screenshot%202025-03-31%20235652.png?Expires=1838053684&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=zFU2izaCkZVAO48KgHzclaok98Xn0k04ZaDLdpz7FEicCH7ZLcTU3nGIz4WIpyH9Jt0jLZ2uQQhOYq0oP6rUQ5gPWyv-xApXEdr6b4400h6ePCxz4F6K1EvQ~iYDJYS9bbXY7kSe65VhROunL2DBtEaPmYsJOzDzzCy1jD-DXj7DURWGzQ~WX3NzIFPai-VvkDemQtv85Q1NvExj4fgm36crRDS0gtweiwqafjitvJtnMUgo5qfwueegUyoixsyzQZCFDHz5khK7vEyRpd5V~bAnQdFC2mcKgvguX~UEpu2rumsnWcEkuRp3bt62OYvI1U-OkPfyP-UKPxKel12m3g__"
                 alt="Smart Farming Technology"
                 className="rounded-lg shadow-lg"
               />
